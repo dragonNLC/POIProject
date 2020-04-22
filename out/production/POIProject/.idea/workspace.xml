@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ee63e224-69da-487d-b864-9cb0fa007251" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1WPdyj5fAr7o1AGKerR7x7JpYje" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../JARS/jacob-1.19/jacob.jar!/" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Java" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.PdfPage2Pic">
+    <configuration name="OpenOfficeWordToPdf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lb.poi.OpenOfficeWordToPdf" />
+      <module name="POIProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lb.poi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Pdf2Pic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lb.poi.Pdf2Pic" />
+      <module name="POIProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lb.poi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PdfPage2Pic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="C:\Program Files\Java\jdk1.8.0_231\jre" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.lb.poi.PdfPage2Pic" />
+      <module name="POIProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lb.poi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.OpenOfficeWordToPdf" />
+      <item itemvalue="Application.Pdf2Pic" />
+      <item itemvalue="Application.PdfPage2Pic" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.PdfPage2Pic" />
+        <item itemvalue="Application.OpenOfficeWordToPdf" />
+        <item itemvalue="Application.Pdf2Pic" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ee63e224-69da-487d-b864-9cb0fa007251" name="Default Changelist" comment="" />
+      <created>1579055420495</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579055420495</updated>
+      <workItem from="1579055424946" duration="5376000" />
+      <workItem from="1579516959058" duration="15000" />
+      <workItem from="1584528319689" duration="840000" />
+      <workItem from="1584529195515" duration="1023000" />
+      <workItem from="1584696794327" duration="10000" />
+      <workItem from="1584946623211" duration="7986000" />
+      <workItem from="1585105627195" duration="140000" />
+      <workItem from="1585306966670" duration="211000" />
+      <workItem from="1585529039182" duration="18000" />
+      <workItem from="1587546006880" duration="66000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
